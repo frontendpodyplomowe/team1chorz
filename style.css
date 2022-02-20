@@ -67,12 +67,26 @@
   list-style: none;
 }
 
+/* resources */
+
+.flower {
+  width: 30%;
+}
+
+.flowerText {
+  font-size: medium;
+}
+
+
 /* clients */
 .client{
   width: 90%; /* moze byc tez 100% */
   border-radius: 50%;
   min-width: 20%;
 }
+
+
+
 
 
 /* own @media rule */
